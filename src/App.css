@@ -1,38 +1,99 @@
+body::-webkit-scrollbar{
+    width: 8px;
+}
+body::-webkit-scrollbar-thumb{
+    background-color: var(--text-color);
+    border-radius: 50px;
+
+}
+
+body::-webkit-scrollbar-thumb:hover{
+    background-color: var(--first-color);
+}
+body::-webkit-scrollbar-track{
+    background-color:var(--body-color);
+}
+
+body::-webkit-scrollbar{
+    width: 8px;
+}
+
 .App {
-  text-align: center;
+    overflow-x: hidden;
+    background:var(--line-color);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.appSidebar{
+    height: 100vh;
+    width: 200px;
+    position: fixed;
+    z-index:999;
+    left: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.appNavbar{
+display: none;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.appContent{
+    
+    width:calc(100vw - 200px); /*arreglar*/
+    margin-left: 160px;
+    position: relative;
 }
 
-.App-link {
-  color: #61dafb;
+.pageContent{
+    /* background-color: var(--body-color);
+    padding: 0 2rem; */
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+/* 767*/
+@media screen and (max-width:900px){
+    body{
+        background:var(--line-color);
+    }
+    .appSidebar{
+        transform: translateX(-100%);
+        position: fixed;
+        top: 60px;
+        height:calc(100vh - 60px);
+        transition: all .8s ease-in-out;
+    }
+
+    .appSidebar.active{
+        transform: translateX(0);
+        width: 70%;
+    }
+
+    .appNavbar{
+        position: fixed;
+        top: 0px;
+        display: flex;
+        width: 100vw;
+        height: 60px;
+        z-index:999;
+        background-color:var(--container-color);
+    
+    }
+
+    .appContent{
+        position:absolute;
+        top: 60px;
+        margin-left: 0;
+        width: 100%;
+    }
+        /* body::-webkit-scrollbar{
+            display: none;
+        } */
+
+.appSidebar .sidebarSetting{
+    display: none;
+}
+.appNavbar .sidebarSetting .sidebarContainerSetting.active{
+    transform: translateX(0);
+    bottom: -200px;
+}
+
+
 }
