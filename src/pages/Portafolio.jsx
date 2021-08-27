@@ -13,6 +13,14 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
       state: true,
       project: [
         {
+          id: 9,
+          title: "Portafolio Personal",
+          img: "assents/portafolioPersonal.png",
+          text: "Este es mi portafolio creado con react y desplegado en Vercel, se utiliza variables en Css para logar dar diferentes colores para el diseño. ",
+          linkWeb: "https://jeisonimbana.com",
+          linkGit: "https://github.com/Imbana/portafolioJeisonimbana",
+        },
+        {
           id: 1,
           title: "Breaking dab ",
           img: "assents/breakingBad.png",
@@ -47,6 +55,14 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         },
         {
           id: 5,
+          title: "Maquinación con HTML y CSS  responsive",
+          img: "assents/primerPortafolio.png",
+          text: "Este proyecto es una maquinación de un portafolio utilizando solo Css y HTML",
+          linkWeb: "https://imbana.github.io/",
+          linkGit: "https://github.com/Imbana/Imbana.github.io",
+        },
+        {
+          id: 6,
           title: "Portafolio  básico",
           img: "assents/maquetacionImg1.png",
           text: "Maquinación con Html y Css para un portafolio Web básico utilizando grid y flex con un diseño responsive",
@@ -54,7 +70,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
           linkGit: "https://github.com/Imbana/maquetacion-grid-flexbox",
         },
         {
-          id: 6,
+          id: 7,
           title: "Maquinación de sitio Web",
           img: "assents/maquetacionImg2.png",
           text: "Maquinación con Html y Css para un sitio Web básico utilizando grid y flex con un diseño responsive",
@@ -62,7 +78,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
           linkGit: "https://github.com/Imbana/maquetacion-responsive2",
         },
         {
-          id: 7,
+          id: 8,
           title: "Inteligencia artificial",
           img: "assents/pythonTesis.png",
           text: "Inteligencia artificial implementada en microcontrolador y utilizadas en detectar la calidad de una fruta para clasificarla si es tipo exportación",
@@ -76,6 +92,14 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
       value: "React",
       state: false,
       project: [
+        {
+          id: 9,
+          title: "Portafolio Personal",
+          img: "assents/portafolioPersonal.png",
+          text: "Este es mi portafolio creado con react y desplegado en Vercel, se utiliza variables en Css para logar dar diferentes colores para el diseño. ",
+          linkWeb: "https://jeisonimbana.com",
+          linkGit: "https://github.com/Imbana/portafolioJeisonimbana",
+        },
         {
           id: 1,
           title: "Breaking dab ",
@@ -112,23 +136,32 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
           title: "Pagina en javaScript",
           img: "assents/paginaColor.png",
           text: "Pagina personal en javaScript, html, css, tema dark y  responsive ",
-          linkWeb: "http://jeisonimbana.com/portafolioJsTheme/",
+          linkWeb: "https://imbana.github.io/portafolioJsTheme/",
           linkGit: "https://github.com/Imbana/portafolioJsTheme",
         },
         {
           id: 2,
+          title: "Maquinación con HTML y CSS  responsive",
+          img: "assents/primerPortafolio.png",
+          text: "Este proyecto es una maquinación de un portafolio utilizando solo Css y HTML",
+          linkWeb: "https://imbana.github.io/",
+          linkGit: "https://github.com/Imbana/Imbana.github.io",
+        },
+
+        {
+          id: 3,
           title: "Portafolio básico",
           img: "assents/maquetacionImg1.png",
           text: "Maquinación con Html y Css para un portafolio Web básico utilizando grid y flex con un diseño responsive",
-          linkWeb: "http://jeisonimbana.com/maquetacion-grid-flexbox/#",
+          linkWeb: "https://imbana.github.io/maquetacion-grid-flexbox/#",
           linkGit: "https://github.com/Imbana/maquetacion-grid-flexbox",
         },
         {
-          id: 3,
+          id: 4,
           title: "Maquinación de sitio Web",
           img: "assents/maquetacionImg2.png",
           text: "Maquinación con Html y Css para un sitio Web básico utilizando grid y flex con un diseño responsive",
-          linkWeb: "http://jeisonimbana.com/maquetacion-responsive2/",
+          linkWeb: "https://imbana.github.io/maquetacion-responsive2/",
           linkGit: "https://github.com/Imbana/maquetacion-responsive2",
         },
       ],
