@@ -40,9 +40,8 @@
 }
 
 .sidebarImg{
-    margin: auto;
-    transform: scale(1.5);
-    margin:20px 0 0 5px;
+    transform: scale(1.3);
+    padding-top: 20px;
     object-fit:cover;
 }
 

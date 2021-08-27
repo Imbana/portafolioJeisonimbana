@@ -15,7 +15,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 9,
           title: "Portafolio Personal",
-          img: "assents/portafolioPersonal.png",
+          img: "assents/portafolioPersonal.PNG",
           text: "Este es mi portafolio creado con react y desplegado en Vercel, se utiliza variables en Css para logar dar diferentes colores para el diseño. ",
           linkWeb: "https://jeisonimbana.com",
           linkGit: "https://github.com/Imbana/portafolioJeisonimbana",
@@ -23,7 +23,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 1,
           title: "Breaking dab ",
-          img: "assents/breakingBad.png",
+          img: "assents/breakingBad.PNG",
           text: "En este sitio se hace uso de una api de Breaking Bad para obtener frases celebres de la seria y el actor autor",
           linkWeb: "https://react-breakig-dab-api-81x84snrv-imbana.vercel.app/",
           linkGit: "https://github.com/Imbana/reactBreakigDabApi",
@@ -32,7 +32,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 2,
           title: "Portafolio Web",
-          img: "assents/reactPortafolio1.png",
+          img: "assents/reactPortafolio1.PNG",
           text: "Se muestra un portafolio básico creado con React ",
           linkWeb: "https://react-portafolio-theta.vercel.app/#works",
           linkGit: "https://github.com/Imbana/ReactPortafolio1",
@@ -40,7 +40,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 3,
           title: "Api Dog",
-          img: "assents/reactApiDog.png",
+          img: "assents/reactApiDog.PNG",
           text: "En este sitio se uso una api de perros para elegir diferentes fotografiás ya sea cambiando la raza o eligiendo una foto diferente",
           linkWeb: "https://api-dog-react.vercel.app/",
           linkGit: "https://github.com/Imbana/appiDogReact",
@@ -48,15 +48,15 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 4,
           title: "Pagina en JavaScript",
-          img: "assents/paginaColor.png",
+          img: "assents/paginaColor.PNG",
           text: "Pagina personal en javaScript, html y Css, tema dark y  responsive ",
-          linkWeb: "http://jeisonimbana.com/portafolioJsTheme/",
+          linkWeb: "https://imbana.github.io/portafolioJsTheme/",
           linkGit: "https://github.com/Imbana/portafolioJsTheme",
         },
         {
           id: 5,
           title: "Maquinación con HTML y CSS  responsive",
-          img: "assents/primerPortafolio.png",
+          img: "assents/primerPortafolio.PNG",
           text: "Este proyecto es una maquinación de un portafolio utilizando solo Css y HTML",
           linkWeb: "https://imbana.github.io/",
           linkGit: "https://github.com/Imbana/Imbana.github.io",
@@ -64,23 +64,23 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 6,
           title: "Portafolio  básico",
-          img: "assents/maquetacionImg1.png",
+          img: "assents/maquetacionImg1.PNG",
           text: "Maquinación con Html y Css para un portafolio Web básico utilizando grid y flex con un diseño responsive",
-          linkWeb: "http://jeisonimbana.com/maquetacion-grid-flexbox/#",
+          linkWeb: "https://imbana.github.io/maquetacion-grid-flexbox",
           linkGit: "https://github.com/Imbana/maquetacion-grid-flexbox",
         },
         {
           id: 7,
           title: "Maquinación de sitio Web",
-          img: "assents/maquetacionImg2.png",
+          img: "assents/maquetacionImg2.PNG",
           text: "Maquinación con Html y Css para un sitio Web básico utilizando grid y flex con un diseño responsive",
-          linkWeb: "http://jeisonimbana.com/maquetacion-responsive2/",
+          linkWeb: "https://imbana.github.io/maquetacion-responsive2/",
           linkGit: "https://github.com/Imbana/maquetacion-responsive2",
         },
         {
           id: 8,
           title: "Inteligencia artificial",
-          img: "assents/pythonTesis.png",
+          img: "assents/pythonTesis.PNG",
           text: "Inteligencia artificial implementada en microcontrolador y utilizadas en detectar la calidad de una fruta para clasificarla si es tipo exportación",
           linkWeb: "https://github.com/Imbana/ClasificacionLimonesCNN",
           linkGit: "https://github.com/Imbana/ClasificacionLimonesCNN",
@@ -95,7 +95,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 9,
           title: "Portafolio Personal",
-          img: "assents/portafolioPersonal.png",
+          img: "assents/portafolioPersonal.PNG",
           text: "Este es mi portafolio creado con react y desplegado en Vercel, se utiliza variables en Css para logar dar diferentes colores para el diseño. ",
           linkWeb: "https://jeisonimbana.com",
           linkGit: "https://github.com/Imbana/portafolioJeisonimbana",
@@ -103,7 +103,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 1,
           title: "Breaking dab ",
-          img: "assents/breakingBad.png",
+          img: "assents/breakingBad.PNG",
           text: "En este sitio se hace uso de una api de Breaking Bad para obtener frases celebres de la seria y el actor autor",
           linkWeb: "https://react-breakig-dab-api-81x84snrv-imbana.vercel.app/",
           linkGit: "https://github.com/Imbana/reactBreakigDabApi",
@@ -111,7 +111,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 2,
           title: "Portafolio Web",
-          img: "assents/reactPortafolio1.png",
+          img: "assents/reactPortafolio1.PNG",
           text: "Se muestra un portafolio básico creado con React ",
           linkWeb: "https://react-portafolio-theta.vercel.app/#works",
           linkGit: "https://github.com/Imbana/ReactPortafolio1",
@@ -119,7 +119,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 3,
           title: "Api Dog",
-          img: "assents/reactApiDog.png",
+          img: "assents/reactApiDog.PNG",
           text: "En este sitio se uso una api de perros para elegir diferentes fotografiás ya sea cambiando la raza o eligiendo una foto diferente",
           linkWeb: "https://api-dog-react.vercel.app/",
           linkGit: "https://github.com/Imbana/appiDogReact",
@@ -134,7 +134,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 1,
           title: "Pagina en javaScript",
-          img: "assents/paginaColor.png",
+          img: "assents/paginaColor.PNG",
           text: "Pagina personal en javaScript, html, css, tema dark y  responsive ",
           linkWeb: "https://imbana.github.io/portafolioJsTheme/",
           linkGit: "https://github.com/Imbana/portafolioJsTheme",
@@ -142,7 +142,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 2,
           title: "Maquinación con HTML y CSS  responsive",
-          img: "assents/primerPortafolio.png",
+          img: "assents/primerPortafolio.PNG",
           text: "Este proyecto es una maquinación de un portafolio utilizando solo Css y HTML",
           linkWeb: "https://imbana.github.io/",
           linkGit: "https://github.com/Imbana/Imbana.github.io",
@@ -151,15 +151,15 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 3,
           title: "Portafolio básico",
-          img: "assents/maquetacionImg1.png",
+          img: "assents/maquetacionImg1.PNG",
           text: "Maquinación con Html y Css para un portafolio Web básico utilizando grid y flex con un diseño responsive",
-          linkWeb: "https://imbana.github.io/maquetacion-grid-flexbox/#",
+          linkWeb: "https://imbana.github.io/maquetacion-grid-flexbox",
           linkGit: "https://github.com/Imbana/maquetacion-grid-flexbox",
         },
         {
           id: 4,
           title: "Maquinación de sitio Web",
-          img: "assents/maquetacionImg2.png",
+          img: "assents/maquetacionImg2.PNG",
           text: "Maquinación con Html y Css para un sitio Web básico utilizando grid y flex con un diseño responsive",
           linkWeb: "https://imbana.github.io/maquetacion-responsive2/",
           linkGit: "https://github.com/Imbana/maquetacion-responsive2",
@@ -174,7 +174,7 @@ import { faGlobe } from "@fortawesome/free-solid-svg-icons";
         {
           id: 1,
           title: "Inteligencia artificial",
-          img: "assents/pythonTesis.png",
+          img: "assents/pythonTesis.PNG",
           text: "Inteligencia artificial implementada en microcontrolador y utilizadas en detectar la calidad de una fruta para clasificarla si es tipo exportación",
           linkWeb: "https://github.com/Imbana/ClasificacionLimonesCNN",
           linkGit: "https://github.com/Imbana/ClasificacionLimonesCNN",
@@ -218,7 +218,7 @@ const handledTitleTop = (event) => {
             <div className="portafolioProjects">
               {project.map((item) => (
                 <span className="portafolioCardProject" key={item.id}>
-                  <img src={item.img} alt="" />
+                  <img src={item.img} alt="foto" />
                   <div className="portafolioCardText">
                     <h3>{item.title}</h3>
                     <p>{item.text}</p>
