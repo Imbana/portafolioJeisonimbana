@@ -26,7 +26,6 @@ const Sidebar = ({ activeMenu, setActiveMenu }) => {
                 className="sidebarImg"
                 src="assents/man.png"
                 alt="Foto"
-                className="sidebarImg"
               />
             </div>
             <h2 className="nombre" onClick={() => scrollToTop()}>
