@@ -26,7 +26,7 @@ useEffect(() => {
         <div className="HomeContain">
           <div className="left">
             <div className="containerImg">
-              <img className="homeImg" src="assents/man.png" alt="jgh" />
+              <img className="homeImg" src="assents/blackman2.png" alt="jgh" />
             </div>
           </div>
           <div className="right">
@@ -37,6 +37,7 @@ useEffect(() => {
               <span ref={textRef}></span>
               &#47;&#62;
             </h3>
+            <h2>Herramientas</h2>
             <a
               className="download"
               href="assents/hojaCv.pdf"

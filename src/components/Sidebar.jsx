@@ -24,7 +24,7 @@ const Sidebar = ({ activeMenu, setActiveMenu }) => {
             <div className="SidebarTopImg">
               <img
                 className="sidebarImg"
-                src="assents/man.png"
+                src="assents/blackman2.png"
                 alt="Foto"
               />
             </div>
@@ -40,7 +40,7 @@ const Sidebar = ({ activeMenu, setActiveMenu }) => {
                 activeClass="active"
                 spy={true}
                 smooth={true}
-                offset={-40}
+                offset={-180}
                 duration={500}
               >
                 <li
@@ -55,7 +55,7 @@ const Sidebar = ({ activeMenu, setActiveMenu }) => {
                 activeClass="active"
                 spy={true}
                 smooth={true}
-                offset={-40}
+                offset={-180}
                 duration={500}
               >
                 <li
@@ -71,7 +71,7 @@ const Sidebar = ({ activeMenu, setActiveMenu }) => {
                 activeClass="active"
                 spy={true}
                 smooth={true}
-                offset={-20}
+                offset={-180}
                 duration={500}
               >
                 <li
@@ -82,7 +82,7 @@ const Sidebar = ({ activeMenu, setActiveMenu }) => {
                 </li>
               </Link>
 
-              <Link
+              {/* <Link
                 to="blogs"
                 activeClass="active"
                 spy={true}
@@ -96,14 +96,14 @@ const Sidebar = ({ activeMenu, setActiveMenu }) => {
                 >
                   <span className="sidebarSubtitle">Blogs</span>
                 </li>
-              </Link>
+              </Link> */}
 
               <Link
                 activeClass="active"
                 to="contact"
                 spy={true}
                 smooth={true}
-                offset={-40}
+                offset={-180}
                 duration={500}
               >
                 <li
