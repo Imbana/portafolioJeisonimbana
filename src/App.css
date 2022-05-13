@@ -58,12 +58,13 @@ display: none;
         position: fixed;
         top: 60px;
         height:calc(100vh - 60px);
-        transition: all .8s ease-in-out;
+        transition: all .5s ease;
     }
 
     .appSidebar.active{
         transform: translateX(0);
         width: 70%;
+        transition: all .5s ease;
     }
 
     .appNavbar{
