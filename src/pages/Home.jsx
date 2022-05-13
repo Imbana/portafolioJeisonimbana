@@ -30,7 +30,7 @@ useEffect(() => {
             </div>
           </div>
           <div className="right">
-            <h2>Hola, Yo soyyyyyy</h2>
+            <h2>Hola, Yo soy</h2>
             <h1>Jeison Imbana</h1>
             <h3 className="itypeText">
               &#60;&nbsp;
